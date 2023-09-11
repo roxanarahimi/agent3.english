@@ -7,7 +7,7 @@
             <img
                 class = "card-img-top"
                 src = "images/copa.jpg"
-                alt = "طراحی سایت"
+                alt = "web design"
             />
             <div class = "card-body ">
               <h5 class = "card-title ms-auto me-3 text-center my-md-2">
@@ -21,7 +21,7 @@
             <img
                 class = "card-img-top"
                 src = "images/elite.jpg"
-                alt = "طراحی سایت"
+                alt = "web design"
             />
             <div class = "card-body ">
               <h5 class = "card-title ms-auto me-3 text-center my-md-2">
