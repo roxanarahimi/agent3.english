@@ -30,6 +30,35 @@
             </div>
           </a>
         </div>
+
+        <div class = "col-6 col-md-4 col-lg-3 col-xxl-3 mb-3">
+          <a href = "https://copacaffe.co.webagent.ir/" target = "_blank" class = "card">
+            <img
+                class = "card-img-top"
+                src = "images/cc.jpg"
+                alt = "طراحی سایت"
+            />
+            <div class = "card-body ">
+              <h5 class = "card-title ms-auto me-3 text-center my-md-2">
+                Copa Cafe
+              </h5>
+            </div>
+          </a>
+        </div>
+        <div class = "col-6 col-md-4 col-lg-3 col-xxl-3 mb-3">
+          <a href = "https://myshop.webagent.ir" target = "_blank" class = "card">
+            <img
+                class = "card-img-top"
+                src = "images/myshop.jpg"
+                alt = "طراحی سایت"
+            />
+            <div class = "card-body ">
+              <h5 class = "card-title ms-auto me-3 text-center my-md-2">
+                Beauty Land
+              </h5>
+            </div>
+          </a>
+        </div>
         <div class = "col-6 col-md-4 col-lg-3 col-xxl-3 mb-3">
           <a href = "https://shop2.webagent.ir" target = "_blank" class = "card">
             <img
